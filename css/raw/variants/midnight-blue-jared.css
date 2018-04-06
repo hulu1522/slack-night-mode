@@ -1087,7 +1087,7 @@ ts-mention { background: rgba(48, 48, 48, 0.1) !important; color: #00ff00 !impor
 @keyframes border_focus_animation { 0% { box-shadow: 0 0 4px 0.25px #282828, 0 0 0 0.5px #303030; }
   100% { box-shadow: 0 0 4px 0 #282828, 0 0 0 0 #303030; } }
 
-.c-message_attachment { color: #00ff00; }
+.c-message_attachment { color: #005ce6; }
 
 .c-message_attachment__border { background-color: #282828; }
 
@@ -1106,8 +1106,6 @@ ts-mention { background: rgba(48, 48, 48, 0.1) !important; color: #00ff00 !impor
 .c-message_attachment__title_link span { color: #00ff00; }
 
 .c-message_attachment__text_expander { color: #00ff00; }
-
-.c-message_attachment__field_title span { color: #005ce6; }
 
 .c-message_attachment__footer { color: #00ff00; }
 
