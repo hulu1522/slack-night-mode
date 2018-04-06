@@ -2,7 +2,7 @@ body { background: #222; color: #e6e6e6; }
 
 a { color: #949494; }
 
-a:link, a:visited { color: #1a75ff; }
+a:link, a:visited { color: #0576b9; }
 
 a:hover, a:active, a:focus { color: #c7c7c7; }
 
@@ -1275,15 +1275,15 @@ ts-mention { background: rgba(130, 130, 130, 0.1) !important; color: #e6e6e6 !im
 
 .post_body ul.checklist li::before { background: #363636; }
 
-.post_body ul.checklist li.checked { color: #00ff00; }
+.post_body ul.checklist li.checked { color: #949494; }
 
 .post_body ul.list.checklist li { border-bottom: 1px solid #545454; }
 
-.post_body ul.list.checklist li.checked { color: #00ff00; }
+.post_body ul.list.checklist li.checked { color: #949494; }
 
-.post_body .message { background-color: #00ff00; }
+.post_body .message { background-color: #e6e6e6; }
 
-.post_body code, .post_body pre { background: #00ff00; }
+.post_body code, .post_body pre { background: #363636; }
 
 ts-message .reply_bar .reply_bar_caret, ts-message .reply_bar .view_conv_hover, ts-message .reply_bar .last_reply_at { color: #949494; }
 
