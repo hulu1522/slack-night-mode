@@ -912,7 +912,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-virtual_list__item--focus:focus .c-message_list__focus_indicator { box-shadow: inset 0 0 0 3px rgba(48, 48, 48, 0.8); }
 
-.c-mrkdwn__broadcast { background: #262626; color: #00ff00; }
+.c-mrkdwn__broadcast { background: #333; color: #00ff00; font-weight: normal; }
 
 ts-message { color: #00ff00; }
 
