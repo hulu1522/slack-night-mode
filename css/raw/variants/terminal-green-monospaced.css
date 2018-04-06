@@ -6,6 +6,8 @@ a:link, a:visited { color: #0576b9; }
 
 a:hover, a:active, a:focus { color: #c7c7c7; }
 
+a.c-mrkdwn__member.c-mrkdwn__member--link { color: #00cc00; background: #333; }
+
 hr { border-bottom: 1px solid #424242; border-top: 1px solid #222; }
 
 h1, h2, h3, h4 { color: #e6e6e6; }
@@ -1281,7 +1283,7 @@ ts-mention { background: rgba(130, 130, 130, 0.1) !important; color: #e6e6e6 !im
 
 .post_body .message { background-color: #e6e6e6; }
 
-.post_body code, .post_body pre { background: #363636; }
+.post_body code, .post_body pre { background: #00ff00; }
 
 ts-message .reply_bar .reply_bar_caret, ts-message .reply_bar .view_conv_hover, ts-message .reply_bar .last_reply_at { color: #949494; }
 
@@ -1335,7 +1337,7 @@ ts-message .reply_bar:hover { background: #222; border-color: #000; }
 
 #archives_end_div_msg_lim h2, #end_display_msg_lim h2 { color: rgba(230, 230, 230, 0.8); }
 
-code { background-color: #000; border: 1px solid #363636; color: #e6e6e6; }
+code { background-color: #000; border: 1px solid #363636; color: #00ff00; }
 
 .file_list_item.snippet .snippet_preview { background: #000; }
 
