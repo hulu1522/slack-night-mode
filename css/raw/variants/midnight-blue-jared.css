@@ -14,7 +14,7 @@ h1 a { color: #00ff00; }
 
 h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #00ff00; }
 
-a.c-mrkdwn__member.c-mrkdwn__member--link { color: #00cc00; border: 1px solid #181818; background: #262626; }
+a.c-mrkdwn__member.c-mrkdwn__member--link { color: #005ce6; border: 1px solid #181818; background: #262626; }
 
 .bordered { border: 1px solid #181818; }
 
@@ -912,7 +912,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-virtual_list__item--focus:focus .c-message_list__focus_indicator { box-shadow: inset 0 0 0 3px rgba(48, 48, 48, 0.8); }
 
-.c-mrkdwn__broadcast { background: #333; color: #00ff00; font-weight: normal; }
+.c-mrkdwn__broadcast { background: #333; color: #005ce6; font-weight: normal; }
 
 ts-message { color: #00ff00; }
 
@@ -1285,7 +1285,7 @@ ts-mention { background: rgba(48, 48, 48, 0.1) !important; color: #00ff00 !impor
 
 .post_body .message { background-color: #00ff00; }
 
-.post_body code, .post_body pre { color: #00cc00; border: 1px solid #181818; background: #262626; }
+.post_body code, .post_body pre { color: #005ce6; border: 1px solid #181818; background: #262626; }
 
 ts-message .reply_bar .reply_bar_caret, ts-message .reply_bar .view_conv_hover, ts-message .reply_bar .last_reply_at { color: #00ff00; }
 
@@ -1505,11 +1505,11 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket { color: #bf360c; }
 
 .channel_overlay_title_shared { color: #00ff00; }
 
-pre { background: #101010; border: 1px solid #181818; color: #00ff00; }
+pre { background: #101010; border: 1px solid #181818; color: #005ce6; }
 
 pre span.mention { padding: 2px 0 !important; }
 
-#page pre, body > pre { background: #101010; color: #00ff00 !important; }
+#page pre, body > pre { background: #101010; color: #005ce6 !important; }
 
 body > pre { background: #303030; }
 
