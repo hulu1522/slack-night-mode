@@ -1083,7 +1083,7 @@ ts-mention { background: rgba(130, 130, 130, 0.1) !important; color: #e6e6e6 !im
 @keyframes border_focus_animation { 0% { box-shadow: 0 0 4px 0.25px #545454, 0 0 0 0.5px #828282; }
   100% { box-shadow: 0 0 4px 0 #545454, 0 0 0 0 #828282; } }
 
-.c-message_attachment { color: #e6e6e6; }
+.c-message_attachment { color: #00ff00; }
 
 .c-message_attachment__border { background-color: #545454; }
 
@@ -1099,7 +1099,7 @@ ts-mention { background: rgba(130, 130, 130, 0.1) !important; color: #e6e6e6 !im
 
 .c-message_attachment__author_link + .c-message_attachment__author_link { color: #949494; }
 
-.c-message_attachment__title_link span { color: #e6e6e6; }
+.c-message_attachment__title_link span { color: #0576b9; }
 
 .c-message_attachment__text_expander { color: #949494; }
 
