@@ -832,9 +832,9 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message__broadcast_preamble_outer, .c-message__broadcast_preamble { color: #00ff00; }
 
-.c-message__sender { color: #00ff00; }
+.c-message__sender { color: #0066ff; }
 
-.c-message__sender a { color: #00ff00; }
+.c-message__sender a { color: #0066ff; }
 
 .c-message__sender .c-emoji__text_mode_icon { color: #00ff00; }
 
@@ -1487,7 +1487,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket { color: #bf360c; }
 
 .dense_theme ts-message .message_content .message_current_status { border-color: #181818; }
 
-.c-message--light .c-message__sender .c-message__sender_link { color: #3385ff; }
+.c-message--light .c-message__sender .c-message__sender_link { color: #0066ff; }
 
 .light_theme ts-message { color: #00ff00; }
 
