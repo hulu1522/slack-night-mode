@@ -16,7 +16,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #00ff00; }
 
 a.c-mrkdwn__member.c-mrkdwn__member--link { color: #00b9f2; border: 1px solid #181818; background: #0d0d0d; }
 
-a.c-message__sender.c-message__sender_link { color: #0000b3; font-weight: normal; }
+a.c-message__sender.c-message__sender_link { color: #0059b3; font-weight: normal; }
 
 .bordered { border: 1px solid #181818; }
 
