@@ -6,7 +6,7 @@ a:link, a:visited { color: #0576b9; }
 
 a:hover, a:active, a:focus { color: #c7c7c7; }
 
-a.c-mrkdwn__member.c-mrkdwn__member--link { color: #00cc00; background: #333; }
+a.c-mrkdwn__member.c-mrkdwn__member--link { color: #00cc00; background: #666666; }
 
 hr { border-bottom: 1px solid #424242; border-top: 1px solid #222; }
 
@@ -1275,13 +1275,13 @@ ts-mention { background: rgba(130, 130, 130, 0.1) !important; color: #e6e6e6 !im
 
 .post_body ul.checklist li::before { background: #363636; }
 
-.post_body ul.checklist li.checked { color: #949494; }
+.post_body ul.checklist li.checked { color: #00ff00; }
 
 .post_body ul.list.checklist li { border-bottom: 1px solid #545454; }
 
-.post_body ul.list.checklist li.checked { color: #949494; }
+.post_body ul.list.checklist li.checked { color: #00ff00; }
 
-.post_body .message { background-color: #e6e6e6; }
+.post_body .message { background-color: #00ff00; }
 
 .post_body code, .post_body pre { background: #00ff00; }
 
@@ -3442,7 +3442,7 @@ body.api .reverse_header { background-color: #000; color: #e6e6e6; }
 
 body.api pre { overflow-x: auto; }
 
-body.api pre code { color: #e6e6e6; }
+body.api pre code { color: #00ff00; }
 
 body.api #page_contents .card { background: #363636; }
 
