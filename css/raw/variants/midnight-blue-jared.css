@@ -14,7 +14,7 @@ h1 a { color: #00ff00; }
 
 h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #00ff00; }
 
-a.c-mrkdwn__member.c-mrkdwn__member--link { color: #00b9f2; background: #8c8c8c; }
+a.c-mrkdwn__member.c-mrkdwn__member--link { color: #00cc00; background: #333; }
 
 .bordered { border: 1px solid #181818; }
 
@@ -1283,7 +1283,7 @@ ts-mention { background: rgba(48, 48, 48, 0.1) !important; color: #00ff00 !impor
 
 .post_body .message { background-color: #00ff00; }
 
-.post_body code, .post_body pre { background: #bfbfbf; }
+.post_body code, .post_body pre { color: #00cc00; background: #333; }
 
 ts-message .reply_bar .reply_bar_caret, ts-message .reply_bar .view_conv_hover, ts-message .reply_bar .last_reply_at { color: #00ff00; }
 
@@ -1337,7 +1337,7 @@ ts-message .reply_bar:hover { background: #000; border-color: #101010; }
 
 #archives_end_div_msg_lim h2, #end_display_msg_lim h2 { color: rgba(0, 185, 242, 0.8); }
 
-code { background-color: #bfbfbf; border: 1px solid #181818; color: #00ff00; }
+code { background-color: #333; border: 1px solid #181818; color: #00cc00; }
 
 .file_list_item.snippet .snippet_preview { background: #101010; }
 
