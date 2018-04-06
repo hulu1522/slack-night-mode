@@ -846,6 +846,8 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message__body { color: #00ff00; }
 
+.c-message__body .c-mrkdwn__pre a { color: #00b9f2; }
+
 .c-message__body--unknown { background: rgba(40, 40, 40, 0.1); }
 
 .c-message__body--automated { color: #00ff00; }
