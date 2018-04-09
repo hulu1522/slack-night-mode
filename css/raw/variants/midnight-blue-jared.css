@@ -18,6 +18,8 @@ a.c-mrkdwn__member.c-mrkdwn__member--link { color: #00b9f2; border: 1px solid #1
 
 a.c-message__sender.c-message__sender_link { color: #0059b3; font-weight: normal; }
 
+.c-message--light .c-message__content_header { background: #001a00; }
+
 .c-mrkdwn__code a, .c-mrkdwn__pre a { color: #00b9f2; }
 
 .c-mrkdwn__code a { color: #00b9f2; }
