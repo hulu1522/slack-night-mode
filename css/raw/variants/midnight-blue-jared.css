@@ -850,7 +850,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message__body--unknown { background: rgba(40, 40, 40, 0.1); }
 
-.c-message__body--automated { color: #00ff00; }
+.c-message__body--automated { color: #717274; }
 
 .c-message__body--tombstone { color: #00ff00; }
 
