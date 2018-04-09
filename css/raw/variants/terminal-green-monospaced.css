@@ -1477,7 +1477,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket { color: #bf360c; }
 
 .c-message--dense .c-timestamp__label { color: #949494; }
 
-.c-message--dense .c-message__content_header .c-custom_status { border-color: #000; }
+.c-message--dense .c-message__content_header .c-custom_status { border-color: #363636; }
 
 .dense_theme ts-message { color: #e6e6e6; font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace; }
 
