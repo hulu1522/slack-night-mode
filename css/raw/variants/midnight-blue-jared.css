@@ -26,6 +26,8 @@ a.c-message__sender.c-message__sender_link { color: #0059b3; font-weight: normal
 
 .c-message__body .c-message__body--automated { color: #717274; }
 
+.CodeMirror-code { color: #00b9f2; }
+
 .bordered { border: 1px solid #181818; }
 
 .top_border { border-top: 1px solid #181818; }
