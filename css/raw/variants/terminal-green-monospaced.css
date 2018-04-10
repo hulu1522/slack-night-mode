@@ -14,6 +14,8 @@ h1 a { color: #e6e6e6; }
 
 h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
+.c-message--light .c-message__content_header { background: #000; }
+
 .bordered { border: 1px solid #363636; }
 
 .top_border { border-top: 1px solid #363636; }
@@ -794,7 +796,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 #col_messages { box-shadow: inset 1px 0 0 0 #222; }
 
-.c-message:hover .c-message__broadcast_preamble_outer, .c-message:hover .c-message__broadcast_preamble { color: #000; }
+.c-message:hover .c-message__broadcast_preamble_outer, .c-message:hover .c-message__broadcast_preamble { color: #949494; }
 
 .c-message--hover .c-message__broadcast_preamble_outer .c-message--focus .c-message__broadcast_preamble_outer, .c-message--hover .c-message__broadcast_preamble_outer .c-message--focus .c-message__broadcast_preamble, .c-message--hover .c-message__broadcast_preamble .c-message--focus .c-message__broadcast_preamble_outer, .c-message--hover .c-message__broadcast_preamble .c-message--focus .c-message__broadcast_preamble { color: #949494; }
 
