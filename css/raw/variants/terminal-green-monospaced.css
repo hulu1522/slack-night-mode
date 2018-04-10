@@ -14,7 +14,7 @@ h1 a { color: #e6e6e6; }
 
 h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
-.c-message--light .c-message__content_header { background: #333333; }
+.c-message--light .c-message__content_header { background: #333; }
 
 .bordered { border: 1px solid #363636; }
 
