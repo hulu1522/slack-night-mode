@@ -76,7 +76,8 @@ body:not(.loading) #team_menu:active {
 }
 
 .c-presence--active,
-.presence.active {
+.presence.active,
+.ts_icon_user {
    color: var(--user-active) !important;
 }
 
