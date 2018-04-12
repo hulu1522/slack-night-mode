@@ -58,6 +58,8 @@ body:not(.loading) #team_menu:active {
    background-color: var(--background-elevated) !important;
 }
 
+.p-channel_sidebar__jumper { background-color: #222 !important; }
+
 .p-channel_sidebar__channel,
 .p-channel_sidebar__link,
 .p-channel_sidebar__channel:link,
