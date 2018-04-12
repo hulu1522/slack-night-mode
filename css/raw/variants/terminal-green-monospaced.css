@@ -16,7 +16,7 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
 .c-timestamp__label { color: #00b300; }
 
-.c-presence { color: #00b300; }
+.c-icon { color: #00b300; }
 
 .c-message--light .c-message__content_header { background: #262626; }
 
