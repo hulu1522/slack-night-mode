@@ -876,7 +876,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message__resend, .c-message__cancel { color: #00ff00; }
 
-.c-message__edited_label { color: #696969; }
+.c-message__edited_label, span .c-message__edited_label { color: #696969; }
 
 .c-message__tombstone_icon { background: rgba(40, 40, 40, 0.1); color: #00ff00; }
 
