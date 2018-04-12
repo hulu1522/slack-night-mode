@@ -18,8 +18,6 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 
 .c-message--light .c-message__content_header { background: #262626; }
 
-.c-icon .c-presence .c-presence--active .c-icon--presence-online { color: #00ff00; }
-
 .bordered { border: 1px solid #363636; }
 
 .top_border { border-top: 1px solid #363636; }
@@ -79,6 +77,8 @@ h1 a:active, h1 a:hover, h1 a:link, h1 a:visited { color: #e6e6e6; }
 .p-channel_sidebar__channel--im.p-channel_sidebar__channel--selected .c-presence, .p-channel_sidebar__channel--im-slackbot.p-channel_sidebar__channel--selected::before { color: #e6e6e6; }
 
 .p-channel_sidebar__channel--im .c-presence--away { color: #949494; }
+
+.p-channel_sidebar__channel--im .c-presence--active { color: #00ff00; }
 
 .p-channel_sidebar__channel--selected, .p-channel_sidebar__link--selected { background: #545454 !important; }
 
