@@ -77,7 +77,8 @@ body:not(.loading) #team_menu:active {
 
 .c-presence--active,
 .presence.active,
-.ts_icon_user {
+.ts_icon_user,
+.channel_members_icon {
    color: var(--user-active) !important;
 }
 
