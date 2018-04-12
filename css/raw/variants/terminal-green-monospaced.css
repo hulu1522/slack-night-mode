@@ -5,6 +5,7 @@
    --background: #222;
    --background-elevated: #363636;
    --user-active: #00e600;
+   --user-away: #ff0000;
 
    /* These should be less important: */
    --background-hover: rgba(255, 255, 255, 0.1);
@@ -76,6 +77,10 @@ body:not(.loading) #team_menu:active {
 
 .c-presence--active {
    color: var(--user-active) !important;
+}
+
+.c-presence--away {
+   color: var(--user-away) !important;
 }
 
 /* Channel with unread messages */
