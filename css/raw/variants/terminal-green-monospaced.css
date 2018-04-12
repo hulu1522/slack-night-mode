@@ -4,6 +4,7 @@
    --text: #00FF00;
    --background: #222;
    --background-elevated: #363636;
+   --user-active: #00e600;
 
    /* These should be less important: */
    --background-hover: rgba(255, 255, 255, 0.1);
@@ -58,7 +59,9 @@ body:not(.loading) #team_menu:active {
    background-color: var(--background-elevated) !important;
 }
 
-.p-channel_sidebar__jumper { background-color: #222 !important; }
+.p-channel_sidebar__jumper {
+   background-color: var(--background) !important;
+}
 
 .p-channel_sidebar__channel,
 .p-channel_sidebar__link,
@@ -71,7 +74,9 @@ body:not(.loading) #team_menu:active {
    color: var(--text) !important;
 }
 
-.c-presence--active { color: #00e600 !important; }
+.c-presence--active {
+   color: var(--user-active) !important;
+}
 
 /* Channel with unread messages */
 .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted):not(.p-channel_sidebar__channel--selected) .p-channel_sidebar__name,
