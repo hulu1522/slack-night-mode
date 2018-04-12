@@ -71,7 +71,7 @@ body:not(.loading) #team_menu:active {
    color: var(--text) !important;
 }
 
-.c-presence--active { color: #ff0000 !important; }
+.c-presence--active { color: #00e600 !important; }
 
 /* Channel with unread messages */
 .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted):not(.p-channel_sidebar__channel--selected) .p-channel_sidebar__name,
