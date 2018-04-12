@@ -81,7 +81,7 @@ body:not(.loading) #team_menu:active {
 }
 
 .c-presence--away
-.presence {
+.presence.away {
    color: var(--user-away) !important;
 }
 
