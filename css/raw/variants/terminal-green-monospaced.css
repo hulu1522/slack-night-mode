@@ -68,6 +68,10 @@ body:not(.loading) #team_menu:active {
    color: var(--text) !important;
 }
 
+.c-mrkdwn__member--mention {
+   background-color: var(--background) !important;
+}
+
 .p-channel_sidebar__channel,
 .p-channel_sidebar__link,
 .p-channel_sidebar__channel:link,
