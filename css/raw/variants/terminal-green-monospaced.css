@@ -1,7 +1,7 @@
 :root {
    /* Modify these to change your theme colors: */
    --primary: #00B9F2;
-   --text: #00FF00;
+   --text: #00B300;
    --background: #222;
    --background-elevated: #363636;
    --user-active: #00e600;
@@ -62,6 +62,10 @@ body:not(.loading) #team_menu:active {
 
 .p-channel_sidebar__jumper {
    background-color: var(--background) !important;
+}
+
+.channel_title .channel_name button {
+   color: var(--text) !important;
 }
 
 .p-channel_sidebar__channel,
