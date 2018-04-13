@@ -68,7 +68,9 @@ body:not(.loading) #team_menu:active {
    color: var(--text) !important;
 }
 
-.c-mrkdwn__member--mention {
+.c-mrkdwn__member--mention,
+.c-mrkdwn__member--link {
+   color: #00FF00 !important;
    background-color: var(--background) !important;
 }
 
