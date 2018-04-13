@@ -71,7 +71,7 @@ body:not(.loading) #team_menu:active {
 .c-mrkdwn__member--mention,
 .c-mrkdwn__member--link {
    color: #00FF00 !important;
-   background-color: var(--background) !important;
+   background-color: var(--background-elevated) !important;
 }
 
 .p-channel_sidebar__channel,
