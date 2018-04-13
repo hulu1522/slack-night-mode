@@ -71,7 +71,7 @@ body:not(.loading) #team_menu:active {
 }
 
 .c-mrkdwn__member--mention,
-.c-mrkdwn__member--link 
+.c-mrkdwn__member--link,
 .c-mrkdwn__broadcast .c-mrkdwn__broadcast--link .c-mrkdwn__broadcast--mention {
    color: var(--member-mention) !important;
    background-color: var(--member-mention-bk) !important;
