@@ -6,6 +6,8 @@
    --background-elevated: #363636;
    --user-active: #00e600;
    --user-away: #ff0000;
+   --member-mention-bk: #737373;
+   --member-mention: #00FF00;
 
    /* These should be less important: */
    --background-hover: rgba(255, 255, 255, 0.1);
@@ -70,8 +72,8 @@ body:not(.loading) #team_menu:active {
 
 .c-mrkdwn__member--mention,
 .c-mrkdwn__member--link {
-   color: #00FF00 !important;
-   background-color: var(--background-elevated) !important;
+   color: var(--member-mention) !important;
+   background-color: var(--member-mention-bk) !important;
 }
 
 .p-channel_sidebar__channel,
